@@ -1,0 +1,19 @@
+
+P
+ 12_reentrantlock-example/pom.xml,9\1\9195013cbb2eda3835a37da5116c6777b201c873
+X
+(04_joining-threads-example/src/Main.java,b\0\b0dbdb84162c69087a0db427daed5982491fb41c
+\
+,03_thread-termination-example/src/Main1.java,1\b\1b21871d13bc047979a8ddd128dabbbb61adcfb8
+X
+(01_threads-creation-part1/src/Main1.java,b\2\b2e8b9fc72d356009a671cd14448f3ae6900f5e8
+X
+(01_threads-creation-part1/src/Main2.java,f\2\f28056d48b862b8e8ca531828f703e9f6d569e0c
+^
+.02_thread-creation-part2-example/src/Main.java,4\a\4a27c6a199696558dc78ad63eeffc1622f1f3cae
+\
+,03_thread-termination-example/src/Main2.java,9\6\9630a29274db3568cc127caf3b327c955e598d5f
+\
+,03_thread-termination-example/src/Main3.java,3\8\384f304b1e9275b2b107897759cbd6e8b12cead3
+_
+/05_optimizing-for-latency-example/src/Main.java,1\0\1064f4ef73e7a0b7a32e2b5345b91b618077bcb3
